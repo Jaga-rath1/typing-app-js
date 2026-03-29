@@ -39,5 +39,5 @@ It captures user keyboard input in real-time and displays it on the screen.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by BuildWithJK
 
